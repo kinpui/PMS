@@ -1,3 +1,3 @@
-<p style='background:blue'>好吧 页面结束了</p>
+<p style='background:blue'>END</p>
 </body>
 </html>
