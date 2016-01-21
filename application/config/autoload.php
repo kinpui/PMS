@@ -82,8 +82,13 @@ $autoload['drivers'] = array();
 | Prototype:
 |
 |	$autoload['helper'] = array('url', 'file');
+|
+|
+| 自动加载常用函数库
+|
+|
 */
-$autoload['helper'] = array();
+$autoload['helper'] = array('func');
 
 /*
 | -------------------------------------------------------------------
@@ -127,3 +132,4 @@ $autoload['language'] = array();
 |	$autoload['model'] = array('first_model' => 'first');
 */
 $autoload['model'] = array();
+
